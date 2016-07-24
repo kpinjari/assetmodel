@@ -1,0 +1,46 @@
+{
+    "classifications":[
+    {
+      "id": "AMD-ENTERPRISE",
+      "name": "AMD ENTERPRISE",
+      "description": "This is the type of enterprise",
+      "ccomClass": "ENTERPRISE_TYPE",
+      "parent": null
+    },
+    {
+      "id": "AMD-SITE",
+      "name": "AMD SITE",
+      "description": "This is the type of site ",
+      "ccomClass": "SITE_TYPE",
+      "parent": null
+    },
+    {
+      "id": "AMD-SEGMENT-TYPE1",
+      "name": "AMD SEGMENT TYPE1",
+      "description": "This is the type 1 of segment",
+      "ccomClass": "SEGMENT_TYPE",
+      "parent": null
+    },
+    {
+      "id": "AMD-SEGMENT-TYPE2",
+      "name": "AMD SEGMENT TYPE2",
+      "description": "This is the type 2 of segment",
+      "ccomClass": "SEGMENT_TYPE",
+      "parent": null
+    },
+    {
+      "id": "AMD-ASSET-TYPE1",
+      "name": "AMD ASSET TYPE 1",
+      "description": "This is the type 1 of asset",
+      "ccomClass": "ASSET_TYPE",
+      "parent": null
+    },
+    {
+      "id": "AMD-ASSET-TYPE2",
+      "name": "AMD ASSET TYPE 2",
+      "description": "This is the type 2 of asset",
+      "ccomClass": "ASSET_TYPE",
+      "parent": null
+    }
+  ]
+}
